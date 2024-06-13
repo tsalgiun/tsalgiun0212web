@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c27c20c.css",
+    "main.js": "/static/js/main.9ccaeaf7.js",
+    "static/js/453.8b6e83a7.chunk.js": "/static/js/453.8b6e83a7.chunk.js",
+    "static/media/avengers (1).jpg": "/static/media/avengers (1).d83ae8abcaf345359a63.jpg",
+    "static/media/__horror-blog-exorcist.jpeg": "/static/media/5bf1c32b1faec7406406a17f_59819104534ede00017fa6e6_horror-blog-exorcist.31fc1d9621d627af2b42.jpeg",
+    "static/media/ironman (1).jpg": "/static/media/ironman (1).6bc2b7f19e72d62b7253.jpg",
+    "static/media/Scary-Movie-5-2013-English-Movie.jpg": "/static/media/Scary-Movie-5-2013-English-Movie.b9265809069940b1789d.jpg",
+    "index.html": "/index.html",
+    "main.6c27c20c.css.map": "/static/css/main.6c27c20c.css.map",
+    "main.9ccaeaf7.js.map": "/static/js/main.9ccaeaf7.js.map",
+    "453.8b6e83a7.chunk.js.map": "/static/js/453.8b6e83a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c27c20c.css",
+    "static/js/main.9ccaeaf7.js"
+  ]
+}
